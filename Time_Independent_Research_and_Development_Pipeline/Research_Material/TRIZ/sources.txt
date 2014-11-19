@@ -1,0 +1,12 @@
+http://portales.puj.edu.co/jaguilar/the_method_for_uncoupling_design_by_contradiction_matrix_of_TRIZ.pdf
+
+http://en.wikipedia.org/wiki/Coupling_(computer_programming)
+http://en.wikipedia.org/wiki/Bayesian_network
+
+Sensor fusion algorithms[edit]
+Sensor fusion is a term that covers a number of methods and algorithms, including:
+
+Central Limit Theorem
+Kalman filter
+Bayesian networks
+Dempster-Shafer
